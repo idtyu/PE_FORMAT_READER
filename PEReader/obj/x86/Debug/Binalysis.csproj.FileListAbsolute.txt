@@ -1,0 +1,14 @@
+C:\Users\RARP-34U\Desktop\PEReader\PEReader\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\RARP-34U\Desktop\PEReader\PEReader\bin\Debug\Binalysis.exe
+C:\Users\RARP-34U\Desktop\PEReader\PEReader\bin\Debug\Binalysis.pdb
+C:\Users\RARP-34U\Desktop\PEReader\PEReader\obj\x86\Debug\Binalysis.exe
+C:\Users\RARP-34U\Desktop\PEReader\PEReader\obj\x86\Debug\Binalysis.pdb
+C:\Users\JunHai\Desktop\PEReader\PEReader\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\JunHai\Desktop\PEReader\PEReader\bin\Debug\Binalysis.exe
+C:\Users\JunHai\Desktop\PEReader\PEReader\bin\Debug\Binalysis.pdb
+C:\Users\JunHai\Desktop\PEReader\PEReader\obj\x86\Debug\Binalysis.exe
+C:\Users\JunHai\Desktop\PEReader\PEReader\obj\x86\Debug\Binalysis.pdb
+C:\Users\JunHai\Desktop\PEReader\PEReader\obj\x86\Debug\Binalysis.Loader.resources
+C:\Users\JunHai\Desktop\PEReader\PEReader\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\JunHai\Desktop\PEReader\PEReader\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\JunHai\Desktop\PEReader\PEReader\obj\x86\Debug\Binalysis.Loaders.AboutBox1.resources
